@@ -1,0 +1,7 @@
+{
+  "name": "eh-kfz",
+  "private": true,
+  "scripts": {
+    "prototype:dashboard": "python -m http.server 4173 --directory prototype"
+  }
+}
